@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple CLI Todo App
 Simple Todo app with command line interface. Supports adding, deleting, and viewing task entries.
 
@@ -17,3 +18,6 @@ either run it from your code editor or Ide or type `python todo.py [command]` in
 |`add`| Adds a task. Prompts user for task text. |
 |`done`| Deletes a task. Prompts user for task id. |
 |`tasks`| Displays all inputted tasks. |
+=======
+# Cli_todo
+>>>>>>> c95a597f096241972f520e7239e3a381d395c4f1
